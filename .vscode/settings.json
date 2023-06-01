@@ -1,0 +1,10 @@
+{
+    "tailwindCSS.emmetCompletions": true,
+    "tailwindCSS.experimental.classRegex": [
+    ],
+    "editor.quickSuggestions": {
+        "strings": true
+     },
+     "css.validate": false,
+     "editor.inlineSuggest.enabled": true,
+}
